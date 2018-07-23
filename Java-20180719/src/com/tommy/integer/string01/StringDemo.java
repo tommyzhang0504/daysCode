@@ -1,6 +1,4 @@
-package com.tommy.string01;
-
-import javax.print.DocFlavor;
+package com.tommy.integer.string01;
 
 /**
  * @Author: tommy.zhang     * @Created_Date: 2018-07-19 13:56
